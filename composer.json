@@ -3,7 +3,7 @@
     "description": "Monolog Handler for sending messages to Microsoft Teams using the Incoming Webhook connector",
     "license": "MIT",
     "require": {
-        "php": "^5.5.0",
+        "php": ">=5.5.0",
         "monolog/monolog": "^1.22"
     },
     "require-dev": {
